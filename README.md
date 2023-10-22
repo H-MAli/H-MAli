@@ -1,13 +1,9 @@
-Hi!
+Hello! I'm Mohammad Ali Haghshenas, a seasoned DevOps Engineer hailing from Tehran, Iran. With over a decade of hands-on experience, I have honed my skills across a multitude of technologies and platforms such as .NET (MAUI & WPF), PHP (Laravel & Symphony), JavaScript (NodeJS & React), and Python (Django).
 
-My name's Ali and I'm a long-term lover of `.NET`! I've been coding since 2010-ish, and besides `.NET`, I have a long history with `php` (mostly `laravel`), `javascript` (mostly `react`), and a little bit of `python` (mostly `django`).
+In recent years, I've taken a keen interest in Machine Learning and Cryptography. I'm currently exploring these fields by experimenting with tools like NumPy and Matplotlib. My broad technical acumen extends to network design and administration, with specialization in Docker, virtualization, and IPv4/IPv6 networking.
 
-My current enthusiasm are ML and Crypto, and I've been fiddling around with some `numpy` and `matplotlib` stuff as of late.
-I'm really looking forward with any collaboration. Please reach me through [my twitter](https://twitter.com/H_MAli).
+I co-founded [doopapps.com](https://doopapps.com), a business venture specializing in mobile and web solutions for mid-sized enterprises. I am also engaged in various other roles, ranging from IT administration to technical coordination in the telecommunication sector. My commitment to continuous learning and innovation is evident from my ongoing projects and a proven track record of solving complex technical challenges.
+
+I welcome collaboration and knowledge exchange. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mohammad-ali-haghshenas-367316137) or reach out via [Twitter](https://twitter.com/your_twitter_handle).
 
 Cheers!
-
-<!---
-H-MAli/H-MAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

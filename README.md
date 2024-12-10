@@ -4,6 +4,6 @@ In recent years, I've taken a keen interest in Machine Learning and Cryptography
 
 I co-founded [doopapps.com](https://doopapps.com), a business venture specializing in mobile and web solutions for mid-sized enterprises. I am also engaged in various other roles, ranging from IT administration to technical coordination in the telecommunication sector. My commitment to continuous learning and innovation is evident from my ongoing projects and a proven track record of solving complex technical challenges.
 
-I welcome collaboration and knowledge exchange. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mohammad-ali-haghshenas-367316137) or reach out via [Twitter](https://twitter.com/H_MAli).
+I welcome collaboration and knowledge exchange. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mohammad-ali-haghshenas-367316137) or reach out via [X](https://x.com/H_MAli).
 
 Cheers!
